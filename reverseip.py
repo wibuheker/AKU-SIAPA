@@ -2,6 +2,9 @@
 ## WIBU HEKER
 ## run apt install tor
 ## run tor
+## edit ur /etc/hosts
+## add this "199.102.45.110  viewdns.info"
+## without "
 ## open new terminal
 ## and start this script
 ## python file.py YOURLIST.txt
