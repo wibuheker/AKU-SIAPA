@@ -1,5 +1,10 @@
 ## REVERSE IP LOOKUP - TOR
 ## WIBU HEKER
+## run apt install tor
+## run tor
+## open new terminal
+## and start this script
+## python file.py YOURLIST.txt
 import random, requests, re, sys
 from multiprocessing import Pool
 lists = [i.strip() for i in open(sys.argv[1], 'r').readlines()]
